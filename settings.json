@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "ROHIT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "BXbloody-wb0z.aternos.me",
+    "ip": "BXbloody-SMP.aternos.me",
     "port": 21639,
     "version": "1.21.11",
     "try-creative": false
