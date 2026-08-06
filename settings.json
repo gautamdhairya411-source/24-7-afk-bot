@@ -6,8 +6,8 @@
     "type": "online"
   },
   "server": {
-    "ip": "BLOODY-SMP.aternos.me",
-    "port": 57106,
+    "ip": "sgp1.bytenut.cc",
+    "port": 9920,
     "version": "1.21.11",
     "try-creative": false
   },
